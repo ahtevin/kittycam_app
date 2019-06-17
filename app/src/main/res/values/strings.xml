@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Logs</string>
+    <string name="app">kittycam</string>
+    <string name="video">Live Video</string>
+    <string name="Profile">Profile</string>
+    <string name="title_activity_page_home">page_home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header">Nivetha</string>
+    <string name="nav_header_sub">madhinive@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_profile">profile</string>
+    <string name="nav_header_title">Nivetha</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="title_activity_livecast">livecast</string>
+    <string name="title_activity_logs">logs</string>
+</resources>

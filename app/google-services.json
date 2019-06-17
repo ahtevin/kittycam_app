@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "486492582514",
+    "firebase_url": "https://kittycam-nivetha.firebaseio.com",
+    "project_id": "kittycam-nivetha",
+    "storage_bucket": "kittycam-nivetha.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486492582514:android:f0f678717689daf3",
+        "android_client_info": {
+          "package_name": "com.example.kittycam_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486492582514-4fjmjp72ksqgk0131p9lho5n4e7riprs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kittycam_final",
+            "certificate_hash": "43288044470231a6dede2bc7c15edac3426d3e20"
+          }
+        },
+        {
+          "client_id": "486492582514-vhecb3r1s5f3bh7neea3nbc4ucktj5hn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm_2BR6hGVyP-7tgEnhedJHFSvbQmIlG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "486492582514-vhecb3r1s5f3bh7neea3nbc4ucktj5hn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
